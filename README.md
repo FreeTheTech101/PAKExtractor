@@ -2,7 +2,7 @@
 
 ## Introduction
 
-A simple application for decompressing and converting PAK/XMA files from early Call of Duty titles.
+A simple application for decompressing and converting PAK/XMA files from early Call of Duty titles
 
 ## Compiling
 
