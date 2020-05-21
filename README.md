@@ -4,9 +4,17 @@
 
 A simple application for decompressing and converting PAK/XMA files from early Call of Duty titles
 
+## Dependencies
+
+[.NET Core 3.1 SDK](https://dotnet.microsoft.com/download/dotnet-core/3.1) [or above](https://dotnet.microsoft.com/download/dotnet-core)
+
+[System.CommandLine](https://github.com/dotnet/command-line-api) [NuGet package](https://nuget.org/packages/System.CommandLine)
+
+XMAEncode from the Xbox 360/One SDK (Required for XMA conversion)
+
 ## Compiling
 
-Re-add the XMAEncode application from the Xbox 360 SDK, then compile using at least Visual Studio 2019 with .NET Core 3.1
+Re-add the XMAEncode binary to the `Dependencies` folder, and restore any required NuGet packages
 
 ## Usage
 
